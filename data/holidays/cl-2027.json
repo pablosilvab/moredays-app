@@ -1,0 +1,106 @@
+{
+  "country": "CL",
+  "countryName": { "es": "Chile", "en": "Chile", "pt": "Chile" },
+  "year": 2027,
+  "source": "https://www.feriados.cl/2027.php",
+  "last_updated": "2026-10-08",
+  "holidays": [
+    {
+      "date": "2027-01-01",
+      "name": { "es": "Año Nuevo", "en": "New Year's Day", "pt": "Ano Novo" },
+      "type": "national"
+    },
+    {
+      "date": "2027-03-26",
+      "name": { "es": "Viernes Santo", "en": "Good Friday", "pt": "Sexta-feira Santa" },
+      "type": "national"
+    },
+    {
+      "date": "2027-03-27",
+      "name": { "es": "Sábado Santo", "en": "Holy Saturday", "pt": "Sábado Santo" },
+      "type": "national"
+    },
+    {
+      "date": "2027-05-01",
+      "name": { "es": "Día Nacional del Trabajo", "en": "Labor Day", "pt": "Dia do Trabalho" },
+      "type": "national"
+    },
+    {
+      "date": "2027-05-21",
+      "name": { "es": "Día de las Glorias Navales", "en": "Navy Day", "pt": "Dia das Glórias Navais" },
+      "type": "national"
+    },
+    {
+      "date": "2027-06-21",
+      "name": {
+        "es": "Día Nacional de los Pueblos Indígenas",
+        "en": "National Indigenous Peoples' Day",
+        "pt": "Dia Nacional dos Povos Indígenas"
+      },
+      "type": "national"
+    },
+    {
+      "date": "2027-06-28",
+      "name": { "es": "San Pedro y San Pablo", "en": "Saint Peter and Saint Paul", "pt": "São Pedro e São Paulo" },
+      "type": "national"
+    },
+    {
+      "date": "2027-07-16",
+      "name": { "es": "Día de la Virgen del Carmen", "en": "Our Lady of Mount Carmel", "pt": "Nossa Senhora do Carmo" },
+      "type": "national"
+    },
+    {
+      "date": "2027-08-15",
+      "name": { "es": "Asunción de la Virgen", "en": "Assumption of Mary", "pt": "Assunção de Maria" },
+      "type": "national"
+    },
+    {
+      "date": "2027-09-17",
+      "name": {
+        "es": "Feriado adicional de Fiestas Patrias",
+        "en": "Additional Independence Holiday",
+        "pt": "Feriado adicional das Festas Pátrias"
+      },
+      "type": "national"
+    },
+    {
+      "date": "2027-09-18",
+      "name": { "es": "Independencia Nacional", "en": "Independence Day", "pt": "Independência Nacional" },
+      "type": "national"
+    },
+    {
+      "date": "2027-09-19",
+      "name": { "es": "Día de las Glorias del Ejército", "en": "Army Day", "pt": "Dia das Glórias do Exército" },
+      "type": "national"
+    },
+    {
+      "date": "2027-10-11",
+      "name": { "es": "Encuentro de Dos Mundos", "en": "Meeting of Two Worlds", "pt": "Encontro de Dois Mundos" },
+      "type": "national"
+    },
+    {
+      "date": "2027-10-31",
+      "name": {
+        "es": "Día de las Iglesias Evangélicas y Protestantes",
+        "en": "Evangelical and Protestant Churches Day",
+        "pt": "Dia das Igrejas Evangélicas e Protestantes"
+      },
+      "type": "national"
+    },
+    {
+      "date": "2027-11-01",
+      "name": { "es": "Día de Todos los Santos", "en": "All Saints' Day", "pt": "Dia de Todos os Santos" },
+      "type": "national"
+    },
+    {
+      "date": "2027-12-08",
+      "name": { "es": "Inmaculada Concepción", "en": "Immaculate Conception", "pt": "Imaculada Conceição" },
+      "type": "national"
+    },
+    {
+      "date": "2027-12-25",
+      "name": { "es": "Navidad", "en": "Christmas", "pt": "Natal" },
+      "type": "national"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "homeTitle": "MoreDays — More days off, same vacation.",
+    "homeDescription": "Build long weekends from public holidays and the vacation days you already have.",
+    "calculatorTitle": "Days off calculator | MoreDays",
+    "calculatorDescription": "Pick a country, a year, and your vacation days. MoreDays shows the combinations that give you the longest break.",
+    "aboutTitle": "About MoreDays",
+    "aboutDescription": "MoreDays stretches your vacation with the year's public holidays.",
+    "privacyTitle": "Privacy | MoreDays",
+    "privacyDescription": "MoreDays calculates in your browser. There are no accounts, and we don't store your vacation days.",
+    "termsTitle": "Terms | MoreDays",
+    "termsDescription": "MoreDays is a planning guide. It does not replace your employer or the current law."
+  },
+  "seo": {
+    "holidaysTitle": "{country} public holidays {year} | MoreDays",
+    "holidaysDescription": "National public holidays in {country} in {year}. A holiday on Saturday or Sunday does not add an extra weekday off.",
+    "bridgesTitle": "{country} days off {year}: best combinations | MoreDays",
+    "bridgesDescription": "With {days} vacation days, the best break in {country} in {year} is {label}: {total} days off using {used} vacation days.",
+    "bridgesDescriptionEmpty": "Days off in {country} in {year}, combining public holidays and vacation days.",
+    "monthTitle": "{month} {year} days off in {country} | MoreDays",
+    "monthDescription": "In {month} {year}, the best break in {country} with {days} vacation days is {label}: {total} days off.",
+    "monthDescriptionEmpty": "Days off and public holidays in {month} {year} in {country}."
+  },
+  "nav": {
+    "calculator": "Calculator",
+    "holidays": "Holidays",
+    "bridges": "Days off",
+    "about": "About",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "menu": "Sections",
+    "theme": "Change theme"
+  },
+  "hero": {
+    "title": "More days off, same vacation.",
+    "subtitle": "Join public holidays and weekends with the leave days you already have."
+  },
+  "calculator": {
+    "country": "Country",
+    "year": "Year",
+    "prevYear": "Previous year",
+    "nextYear": "Next year",
+    "daysLabel": "How many vacation days do you have?",
+    "daysValue": "{count, plural, one {# day} other {# days}}",
+    "weekends": "Include weekends",
+    "weekendsHint": "When this is on, Saturdays and Sundays count toward the total days off.",
+    "submit": "Show days off",
+    "results": "Your days off",
+    "best": "Best option",
+    "freeTitle": "Already days off",
+    "freeHint": "These breaks don't use any vacation days.",
+    "empty": "Those days don't stretch a holiday into a longer break. Try adding a couple more.",
+    "daysOff": "{count, plural, one {# day in a row} other {# days in a row}}",
+    "daysUsed": "{count, plural, one {You take # vacation day} other {You take # vacation days}}",
+    "noVacation": "You don't take any vacation days",
+    "alreadyFree": "{count, plural, one {# was already off} other {# were already off}}",
+    "legendVacation": "Day you take",
+    "legendHoliday": "Holiday",
+    "legendWeekend": "Weekend",
+    "holidaysIn": "Holidays included",
+    "noHolidays": "No public holidays: this is a week built only from vacation days.",
+    "share": "Share",
+    "copied": "Link copied",
+    "fullWeek": "Full week",
+    "presetNote": "These combinations use 5 vacation days and include weekends.",
+    "comingSoon": "Coming soon"
+  },
+  "how": {
+    "title": "How it works",
+    "step1Title": "Tell us your days",
+    "step1Body": "Country, year, and how many leave days you can take. That's it.",
+    "step2Title": "We join holidays and weekends",
+    "step2Body": "We look for the short gap where one leave day connects a holiday to the weekend.",
+    "step3Title": "You keep the longest break",
+    "step3Body": "The highlight is the stretch with the most days off. Breaks that are already free sit in their own list."
+  },
+  "faq": {
+    "title": "FAQ",
+    "q1": "How do a holiday and a weekend join?",
+    "a1": "A long break you get when a public holiday lands near the weekend and you use one or more leave days to connect them.",
+    "q2": "Does a Saturday or Sunday holiday add an extra day?",
+    "a2": "No. If it already falls on the weekend, it doesn't add a weekday off. It can still sit inside a longer break.",
+    "q3": "How do you pick the best option?",
+    "a3": "The highlighted break is the longest one. If two last the same, the one that uses fewer vacation days comes first.",
+    "q4": "Which countries can I use?",
+    "a4": "The full calendar today is Chile, for 2027. Argentina, Mexico, Spain, Brazil, Peru, and Colombia show up as coming soon.",
+    "q5": "Are regional holidays included?",
+    "a5": "Not yet. Only national holidays count. A regional holiday can lengthen the break where you live, but it isn't in this calculation.",
+    "q6": "Do you store what I calculate?",
+    "a6": "No. The math runs in your browser. We don't ask for an account or send your vacation days to a server."
+  },
+  "holidayList": {
+    "title": "{year} holidays",
+    "titleIn": "{year} holidays in {country}",
+    "empty": "There are no holidays loaded for this country and year yet.",
+    "weekend": "Falls on a weekend and does not add a weekday off.",
+    "pending": "Date not confirmed",
+    "source": "Source",
+    "updated": "Updated {date}"
+  },
+  "holidayTypes": {
+    "national": "National",
+    "regional": "Regional",
+    "bank": "Bank",
+    "observance": "Observance"
+  },
+  "bridges": {
+    "title": "Best days off of {year}",
+    "titleIn": "{year} days off in {country}",
+    "monthTitle": "{month} {year} days off",
+    "seeYear": "See the full year",
+    "seeMonth": "See {month}",
+    "none": "This month has no stretch with 5 vacation days. Check the full year, or change the days in the calculator."
+  },
+  "footer": {
+    "tagline": "More days off, same vacation.",
+    "rights": "© {year} MoreDays"
+  },
+  "notFound": {
+    "title": "This page isn't here",
+    "body": "The link doesn't match a country, year, or month we have.",
+    "back": "Back home"
+  },
+  "about": {
+    "p1": "MoreDays helps you stretch the vacation you already have, using the public holidays on the calendar.",
+    "p2": "You pick a country, a year, and how many leave days you can take. You get concrete dates: how many days off you gain and how many vacation days you spend.",
+    "p3": "The detail today is Chile. The other countries in the selector will arrive once the calendar is confirmed."
+  },
+  "privacy": {
+    "p1": "MoreDays has no accounts and doesn't store what you calculate.",
+    "p2": "The combination is built in your browser. Your vacation days are not sent to a server of ours.",
+    "p3": "If we turn on ads, the slot will be labeled and the provider may use its own cookies. Until then, we don't load ads.",
+    "p4": "TODO: add the site owner and a contact email before launch."
+  },
+  "terms": {
+    "p1": "MoreDays is a guide for planning time off. It is not employment or legal advice.",
+    "p2": "Dates come from public sources. Confirm them before you request leave: a new law can move a holiday.",
+    "p3": "The service is provided as is. We don't promise your employer will approve a combination."
+  },
+  "ads": {
+    "placeholder": "Ad slot"
+  }
+}

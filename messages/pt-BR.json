@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "homeTitle": "MoreDays — Mais dias livres, as mesmas férias.",
+    "homeDescription": "Junte feriados e fins de semana com os dias de folga que você já tem.",
+    "calculatorTitle": "Calculadora de dias livres | MoreDays",
+    "calculatorDescription": "Escolha o país, o ano e seus dias de férias. O MoreDays mostra as combinações que rendem o maior descanso.",
+    "aboutTitle": "Sobre o MoreDays",
+    "aboutDescription": "O MoreDays junta feriados e dias de folga para esticar suas férias.",
+    "privacyTitle": "Privacidade | MoreDays",
+    "privacyDescription": "O MoreDays calcula no seu navegador. Não há contas e não guardamos seus dias de férias.",
+    "termsTitle": "Termos | MoreDays",
+    "termsDescription": "O MoreDays é um guia para planejar folgas. Não substitui seu empregador nem a lei vigente."
+  },
+  "seo": {
+    "holidaysTitle": "Feriados {year} em {country} | MoreDays",
+    "holidaysDescription": "Feriados nacionais de {country} em {year}. Se caem no sábado ou no domingo, não somam um dia útil extra.",
+    "bridgesTitle": "Dias livres {year} em {country}: melhores combinações | MoreDays",
+    "bridgesDescription": "Com {days} dias de férias, a melhor combinação em {country} em {year} é {label}: {total} dias livres usando {used} de folga.",
+    "bridgesDescriptionEmpty": "Dias livres de {country} em {year}, juntando feriados e dias de férias.",
+    "monthTitle": "Dias livres de {month} de {year} em {country} | MoreDays",
+    "monthDescription": "Em {month} de {year}, a melhor combinação em {country} com {days} dias de férias é {label}: {total} dias livres.",
+    "monthDescriptionEmpty": "Dias livres e feriados de {month} de {year} em {country}."
+  },
+  "nav": {
+    "calculator": "Calculadora",
+    "holidays": "Feriados",
+    "bridges": "Dias livres",
+    "about": "Sobre",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "menu": "Seções",
+    "theme": "Mudar tema"
+  },
+  "hero": {
+    "title": "Mais dias livres, as mesmas férias.",
+    "subtitle": "Junte feriados e fins de semana com os dias de folga que você já tem."
+  },
+  "calculator": {
+    "country": "País",
+    "year": "Ano",
+    "prevYear": "Ano anterior",
+    "nextYear": "Ano seguinte",
+    "daysLabel": "Quantos dias de férias você tem?",
+    "daysValue": "{count, plural, one {# dia} other {# dias}}",
+    "weekends": "Incluir fins de semana",
+    "weekendsHint": "Se estiver marcado, sábados e domingos entram no total de dias livres.",
+    "submit": "Ver dias livres",
+    "results": "Seus dias livres",
+    "best": "Melhor opção",
+    "freeTitle": "Você já tem esses dias livres",
+    "freeHint": "Esses descansos não gastam dias de férias.",
+    "empty": "Com esses dias não aparece um descanso que estique o feriado. Tente acrescentar mais alguns.",
+    "daysOff": "{count, plural, one {# dia seguido} other {# dias seguidos}}",
+    "daysUsed": "{count, plural, one {Você pede # dia de férias} other {Você pede # dias de férias}}",
+    "noVacation": "Você não pede dias de férias",
+    "alreadyFree": "{count, plural, one {# já estava livre} other {# já estavam livres}}",
+    "legendVacation": "Dia que você pede",
+    "legendHoliday": "Feriado",
+    "legendWeekend": "Fim de semana",
+    "holidaysIn": "Feriados incluídos",
+    "noHolidays": "Sem feriados: é uma semana montada só com férias.",
+    "share": "Compartilhar",
+    "copied": "Link copiado",
+    "fullWeek": "Semana completa",
+    "presetNote": "Essas combinações usam 5 dias de férias e incluem fins de semana.",
+    "comingSoon": "Em breve"
+  },
+  "how": {
+    "title": "Como funciona?",
+    "step1Title": "Você diz quantos dias tem",
+    "step1Body": "País, ano e os dias de folga que pode usar. Só isso.",
+    "step2Title": "Juntamos feriados e fins de semana",
+    "step2Body": "Procuramos o intervalo curto em que um dia de folga liga um feriado ao fim de semana.",
+    "step3Title": "Você fica com a melhor sequência",
+    "step3Body": "No topo fica a combinação com mais dias livres seguidos. As que já são feriado ficam em outra lista."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "q1": "Como um feriado se junta ao fim de semana?",
+    "a1": "É um descanso longo que aparece quando um feriado cai perto do fim de semana e você usa um ou mais dias de folga para ligá-los.",
+    "q2": "Um feriado no sábado ou no domingo soma um dia extra?",
+    "a2": "Não. Se já cai no fim de semana, não acrescenta um dia útil livre. Ainda pode fazer parte de um descanso maior.",
+    "q3": "Como vocês escolhem a melhor opção?",
+    "a3": "A destacada é a que deixa mais dias seguidos. Se duas duram o mesmo, vem primeiro a que pede menos dias de férias.",
+    "q4": "Quais países posso usar?",
+    "a4": "Hoje o calendário completo é o do Chile, para 2027. Argentina, México, Espanha, Brasil, Peru e Colômbia aparecem como em breve.",
+    "q5": "Os feriados regionais entram?",
+    "a5": "Por enquanto, não. Só contamos os feriados nacionais. Um feriado regional pode alongar o descanso na sua cidade, mas não entra neste cálculo.",
+    "q6": "Vocês guardam o que eu calculo?",
+    "a6": "Não. A conta acontece no seu navegador. Não pedimos conta nem enviamos seus dias de férias a um servidor."
+  },
+  "holidayList": {
+    "title": "Feriados de {year}",
+    "titleIn": "Feriados de {year} em {country}",
+    "empty": "Ainda não há feriados carregados para este país e ano.",
+    "weekend": "Cai no fim de semana e não soma um dia útil extra.",
+    "pending": "Data a confirmar",
+    "source": "Fonte",
+    "updated": "Atualizado em {date}"
+  },
+  "holidayTypes": {
+    "national": "Nacional",
+    "regional": "Regional",
+    "bank": "Bancário",
+    "observance": "Comemoração"
+  },
+  "bridges": {
+    "title": "Melhores dias livres de {year}",
+    "titleIn": "Dias livres {year} em {country}",
+    "monthTitle": "Dias livres de {month} de {year}",
+    "seeYear": "Ver o ano inteiro",
+    "seeMonth": "Ver {month}",
+    "none": "Neste mês não há uma combinação com 5 dias de férias. Veja o ano inteiro ou mude os dias na calculadora."
+  },
+  "footer": {
+    "tagline": "Mais dias livres, as mesmas férias.",
+    "rights": "© {year} MoreDays"
+  },
+  "notFound": {
+    "title": "Esta página não existe",
+    "body": "O link não corresponde a um país, ano ou mês que temos.",
+    "back": "Voltar ao início"
+  },
+  "about": {
+    "p1": "O MoreDays ajuda a esticar as férias que você já tem, usando os feriados do calendário.",
+    "p2": "Você escolhe o país, o ano e quantos dias de folga pode pedir. Vê datas concretas: quantos dias livres consegue e quantos de férias gasta.",
+    "p3": "Hoje o detalhe está no Chile. Os outros países do seletor entram quando o calendário estiver confirmado."
+  },
+  "privacy": {
+    "p1": "O MoreDays não tem contas e não guarda o que você calcula.",
+    "p2": "A combinação é feita no seu navegador. Seus dias de férias não vão para um servidor nosso.",
+    "p3": "Se ativarmos anúncios, o espaço vai estar marcado e o provedor pode usar os próprios cookies. Até lá, não carregamos anúncios.",
+    "p4": "TODO: completar o responsável pelo site e um e-mail de contato antes de publicar."
+  },
+  "terms": {
+    "p1": "O MoreDays é um guia para planejar folgas. Não é assessoria trabalhista nem jurídica.",
+    "p2": "As datas vêm de fontes públicas. Confirme antes de pedir folga: uma lei nova pode mover um feriado.",
+    "p3": "O serviço é oferecido como está. Não prometemos que seu empregador aprove uma combinação."
+  },
+  "ads": {
+    "placeholder": "Espaço de anúncio"
+  }
+}
