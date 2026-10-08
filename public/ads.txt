@@ -1,2 +1,1 @@
-# TODO: reemplazar con el publisher ID de AdSense cuando la cuenta esté activa.
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-5842491442798334, DIRECT, f08c47fec0942fa0

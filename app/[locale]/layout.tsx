@@ -11,7 +11,7 @@ import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { htmlLang, routing } from "@/i18n/routing";
 import { languageAlternates } from "@/lib/seo";
-import { siteUrl } from "@/lib/site";
+import { adsenseClient, siteUrl } from "@/lib/site";
 import type { AppLocale } from "@/lib/types";
 
 const inter = Inter({
@@ -52,8 +52,7 @@ export default async function LocaleLayout({
 
   setRequestLocale(locale);
   const messages = await getMessages();
-  const adsenseId = process.env.NEXT_PUBLIC_ADSENSE_ID;
-  const safeAdsense = adsenseId && /^ca-pub-\d+$/.test(adsenseId) ? adsenseId : null;
+  const safeAdsense = /^ca-pub-\d+$/.test(adsenseClient) ? adsenseClient : null;
 
   return (
     <html

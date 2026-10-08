@@ -2,6 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { useEffect } from "react";
+import { adsenseClient } from "@/lib/site";
 
 type SlotName = "leaderboard" | "rectangle" | "footer";
 
@@ -25,7 +26,7 @@ declare global {
 
 export function AdSlot({ slot }: { slot: SlotName }) {
   const t = useTranslations("ads");
-  const client = process.env.NEXT_PUBLIC_ADSENSE_ID;
+  const client = adsenseClient;
   const slotId = slotEnv[slot];
 
   useEffect(() => {

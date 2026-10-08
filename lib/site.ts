@@ -3,6 +3,12 @@ export const siteUrl = (
   process.env.NEXT_PUBLIC_SITE_URL ?? "https://moredays.vercel.app"
 ).replace(/\/$/, "");
 
+const adsenseFromEnv = process.env.NEXT_PUBLIC_ADSENSE_ID;
+export const adsenseClient =
+  adsenseFromEnv && /^ca-pub-\d+$/.test(adsenseFromEnv)
+    ? adsenseFromEnv
+    : "ca-pub-5842491442798334";
+
 export const PRESET_VACATION_DAYS = 5;
 export const PRESET_INCLUDE_WEEKENDS = true;
 export const DEFAULT_COUNTRY = "CL";
